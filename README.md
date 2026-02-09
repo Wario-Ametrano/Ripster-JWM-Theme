@@ -5,6 +5,7 @@ Dark and Minimal theme for JWM.
 ![Dark](https://github.com/Wario-Ametrano/Ripster-JWM-Theme/blob/main/Ripster-JWM-Desktop.png "Ripster-Theme")
 
 #### Requirements:
+
 - **jwm**,
 - **Papirus** icon set.
 
