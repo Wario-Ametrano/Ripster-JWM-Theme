@@ -1,0 +1,66 @@
+<JWM>
+<!-- Automatically generated and updated. Do not touch -->
+
+        <Menu label="Grafica"  icon="applications-graphics">
+          <Program label="Gimp" icon="gimp" confirm="false">gimp</Program>
+          <Program label="Colorpie" icon="gcolor3" confirm="false">colorpie</Program>
+          <Program label="Darkalbe" icon="darktable" confirm="false">darktable</Program>
+	  <Program label="ScreenGrab" icon="screengrab" confirm="false">screengrab</Program>
+	 <Program label="ScreenCloud" icon="screencloud" confirm="false">screencloud</Program>
+        </Menu>
+
+	<Menu label="Multimedia" icon="applications-multimedia">
+          <Program label="Vlc" icon="vlc" confirm="false">vlc</Program>
+ 	  <Program label="Audacity" icon="audacity" confirm="false">audacity</Program>
+ 	  <Program label="Pulse Audio" icon="pavucontrol" confirm="false">pavucontrol-qt</Program>
+	</Menu>
+
+ 	<Menu label="Office" icon="applications-office">
+          <Program label="FeatherPad" icon="featherpad" confirm="false">featherpad</Program>
+          <Program label="Xfwrite" icon="xfwrite" confirm="false">xfwrite</Program>
+          <Program label="Xpdf" icon="xpdf" confirm="false">xpdf</Program>
+          <Program label="Atril" icon="atril" confirm="false">atril</Program>
+	   <Program label="Libre Office" icon="libreoffice" confirm="false">libreoffice</Program>
+	   <Program label="Qalculate! (Qt)" icon="qalculate" confirm="false">qalculate-qt</Program>
+	</Menu>
+
+        <Menu label="Rete" icon="applications-webapps">
+        	<Program label="Firefox" icon="firefox" confirm="false">firefox</Program>
+            <Program label="Falkon" icon="falkon" confirm="false">falkon</Program>   
+            <Program label="Postman" icon="postman" confirm="false">postman</Program>   
+            <Program label="Telegram" icon="telegram" confirm="false">telegram-desktop</Program>   
+	     <Program label="whatsdesk" icon="whatsapp" confirm="false">whatsdesk</Program>   
+        </Menu>
+
+       <Menu label="Coding" icon="applications-development">   
+            <Program label="Kate" icon="kate" confirm="false">kate</Program>
+            <Program label="Zed" icon="zed" confirm="false">zed</Program>
+            <Program label="Sublime Text" icon="sublime_text" confirm="false">subl</Program>
+	    <Program label="VS Codium" icon="vscodium" confirm="false">codium</Program>
+        </Menu>
+
+        <Menu label="Tools"  icon="applications-accessories">   
+		<Program label="SpaceFM Find" icon="spacefm-find" confirm="false">spacefm --find-files</Program>
+		<Program label="Xfe" icon="xfe" confirm="false">xfe</Program>
+                <Program label="Terminator"  icon="terminator" confirm="false">terminator</Program>
+                <Program label="LxTerm"  icon="terminal" confirm="false">lxterm</Program>
+                <Program label="PcmanFM-QT"  icon="pcmanfm-qt" confirm="false">pcmanfm-qt</Program>
+                <Program label="PcmanFM"  icon="pcmanfm-qt" confirm="false">pcmanfm</Program>
+                <Program label="SpaceFM"  icon="spacefm" confirm="false">spacefm</Program>
+   		<Program label="Mintstick Format USB"  icon="mintstick" confirm="false">mintstick -m format</Program>
+        </Menu>
+
+  	<Menu label="System"  icon="applications-system">   
+   		<Program label="Lubuntu Updates"  icon="start-here-lubuntu" confirm="false">lubuntu-update</Program>
+   		<Program label="Discover"  icon="plasmadiscover" confirm="false">plasma-discover</Program>
+                <Program label="Qps"  icon="qps" confirm="false">qps</Program>
+ 	</Menu>
+      
+      <Menu label="Games" icon="applications-games">
+                <Program label="EDuke32" icon="eduke32" confirm="false">/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=eduke32 com.eduke32.EDuke32</Program>
+  		<Program label="LZDoom" icon="lzdoom" confirm="false">lzdoom</Program>
+               <Program label="QuakeSpasm" icon="quake" confirm="false">quakespasm</Program>
+               <Program label="Yamagi Quake II" icon="quake2" confirm="false">/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=YamagiQ2.sh org.yamagi.YamagiQ2</Program>
+      </Menu>
+      
+</JWM>
