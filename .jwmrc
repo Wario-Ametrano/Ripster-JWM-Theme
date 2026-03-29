@@ -50,13 +50,14 @@
         <Pager labeled="true"/>
         <Spacer width="1"/>
         <TaskList maxwidth="200" list="current"/>
-        <TrayButton icon="xfe" popup="Xfe File-Manager">exec:xfe</TrayButton>
+        <TrayButton icon="pcmanfm-qt" popup="PCmanFM">exec:pcmanfm</TrayButton>
         <TrayButton icon="falkon" popup="Falkon Web-Browser">exec:falkon </TrayButton>
         <!-- Wi-Fi -->
         <Dock/>
-        <Spacer width="6"/>
 
-        <Clock/>
+        <Clock popup="%d/%m/%y %H:%M" format="%H:%M">xclock</Clock>
+        <Spacer width="2"/>
+
     </Tray>
     <!-- STILE PANNELLO -->
     <TrayStyle>
