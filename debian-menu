@@ -25,11 +25,15 @@
 	</Menu>
 
         <Menu label="Rete" icon="applications-webapps">
-        	<Program label="Firefox" icon="firefox" confirm="false">firefox</Program>
+            <Program label="Firefox" icon="firefox" confirm="false">firefox</Program>
             <Program label="Falkon" icon="falkon" confirm="false">falkon</Program>   
+            <Program label="Opera" icon="opera" confirm="false">opera-gx.desktop</Program>   
             <Program label="Postman" icon="postman" confirm="false">postman</Program>   
             <Program label="Telegram" icon="telegram" confirm="false">telegram-desktop</Program>   
-	     <Program label="whatsdesk" icon="whatsapp" confirm="false">whatsdesk</Program>   
+	    <Program label="whatsdesk" icon="whatsapp" confirm="false">whatsdesk</Program>   
+	    <Program label="Transmission" icon="transmission" confirm="false">transmission-qt.desktop</Program>   
+	    <Program label="Tor Browser" icon="torbrowser-" confirm="false">torbrowser.desktop</Program>   
+
         </Menu>
 
        <Menu label="Coding" icon="applications-development">   
