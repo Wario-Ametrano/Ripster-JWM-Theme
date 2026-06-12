@@ -20,8 +20,8 @@
           <Program label="Xfwrite" icon="xfwrite" confirm="false">xfwrite</Program>
           <Program label="Xpdf" icon="xpdf" confirm="false">xpdf</Program>
           <Program label="Atril" icon="atril" confirm="false">atril</Program>
-	   <Program label="Libre Office" icon="libreoffice" confirm="false">libreoffice</Program>
-	   <Program label="Qalculate! (Qt)" icon="qalculate" confirm="false">qalculate-qt</Program>
+	   	  <Program label="Libre Office" icon="libreoffice" confirm="false">libreoffice</Program>
+	   	  <Program label="Qalculate! (Qt)" icon="qalculate" confirm="false">qalculate-qt</Program>
 	</Menu>
 
         <Menu label="Rete" icon="applications-webapps">
@@ -30,11 +30,10 @@
             <Program label="Opera" icon="opera" confirm="false">opera-gx.desktop</Program>   
             <Program label="Postman" icon="postman" confirm="false">postman</Program>   
             <Program label="Telegram" icon="telegram" confirm="false">telegram-desktop</Program>   
-	    <Program label="whatsdesk" icon="whatsapp" confirm="false">whatsdesk</Program>   
-	    <Program label="Transmission" icon="transmission" confirm="false">transmission-qt.desktop</Program>   
-	    <Program label="Tor Browser" icon="torbrowser-" confirm="false">torbrowser.desktop</Program>   
-
-        </Menu>
+	    	<Program label="whatsdesk" icon="whatsapp" confirm="false">whatsdesk</Program>   
+	    	<Program label="Transmission" icon="transmission" confirm="false">transmission-qt.desktop</Program>   
+	   		<Program label="Tor Browser" icon="torbrowser-" confirm="false">torbrowser.desktop</Program>   
+	 </Menu>
 
        <Menu label="Coding" icon="applications-development">   
             <Program label="Kate" icon="kate" confirm="false">kate</Program>
